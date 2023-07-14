@@ -5,6 +5,8 @@ import GlassPane from "~components/GlassPane";
 import "~styles/global.css";
 
 const inter = Inter({
+  subsets: ['latin'],
+  display: 'swap',
   variable: "--font-inter",
 });
 
