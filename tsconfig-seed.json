@@ -27,7 +27,8 @@
       "~lib/*": ["./src/lib/*"],
       "~styles/*": ["./src/styles/*"],
       "~prisma/*": ["./prisma/*"],
-      "~public/*": ["./public/*"]
+      "~public/*": ["./public/*"],
+      "~env": ["./src/env"]
     }
   },
   "include": ["next-env.d.ts", ".next/types/**/*.ts", "**/*.ts", "**/*.tsx"],
